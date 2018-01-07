@@ -1,2 +1,2 @@
-# TASMx-Atari
-A repository of macro definitions and templates for compiling Atari style source code under TASMx.
+# TASMx-Library
+A repository of macro definitions and templates for compiling OEM source code under TASMx.
